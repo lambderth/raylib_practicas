@@ -1,6 +1,13 @@
 # Prácticas raylib.
 Introducción al desarrollo de videojuegos en lenguaje C.
 
+### Contenido:
+- Práctica 1: Configuración del ambiente de desarrollo, compilador y creación de la primera ventana.
+- Práctica 2: Dibujo de formas básicas y manejo de eventos con el teclado. Crear figuras básicas usando vectores2d y a cambiar su posición usando el teclado.
+- Práctica 3: Animaciones básicas. Es un avance de la práctica 2, en donde se crearán figuras pero implementando "animaciones" para que los objetos se muevan por sí mismos.
+- Práctica 4: Combinación de la práctica 2 y 3, y agregar colisiones. Usar lo aprendido en las prácticas 2 y 3 para crear un objeto que se mueva por sí solo, así como un objeto controlado por el usuario, e integrar el concepto de colisiones para que estos dos objetos interactuen entre ellos.
+- Práctica 5: Avance de la práctica 4 y producto final. Tomamos la práctica 4 pero agregamos el concepto de la gravedad para crear un plataformero. También se puede incluir la generación de plataformas en las cuales el jugador puede saltar.
+
 ### Prerrequisitos:
 - Descargar e instalar [Code::Blocks](https://www.codeblocks.org/).
 - Descargar e instalar [raylib](https://www.raylib.com/index.html).
