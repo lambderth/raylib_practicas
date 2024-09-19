@@ -1,0 +1,16 @@
+# Ignorar carpetas de compilación
+bin/
+obj/
+
+# Ignorar archivos generados por Code::Blocks
+*.depend
+*.layout
+
+# Ignorar archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos ejecutables generados (si los hay)
+*.exe
+*.out
+*.o
